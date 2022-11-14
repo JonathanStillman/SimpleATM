@@ -1,0 +1,15 @@
+/Users/jonathanstillman/Projects/ATM/ATM/bin/Debug/net7.0/ATM
+/Users/jonathanstillman/Projects/ATM/ATM/bin/Debug/net7.0/ATM.deps.json
+/Users/jonathanstillman/Projects/ATM/ATM/bin/Debug/net7.0/ATM.runtimeconfig.json
+/Users/jonathanstillman/Projects/ATM/ATM/bin/Debug/net7.0/ATM.dll
+/Users/jonathanstillman/Projects/ATM/ATM/bin/Debug/net7.0/ATM.pdb
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.csproj.AssemblyReference.cache
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.AssemblyInfoInputs.cache
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.AssemblyInfo.cs
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.csproj.CoreCompileInputs.cache
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.dll
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/refint/ATM.dll
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.pdb
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ATM.genruntimeconfig.cache
+/Users/jonathanstillman/Projects/ATM/ATM/obj/Debug/net7.0/ref/ATM.dll
